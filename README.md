@@ -3,6 +3,8 @@
 ## CampDad
 This web application is a campsite search app that provides details regarding particular campsites in an intuitive and user friend UI.
 
+![Camp Dad](assets/images/campdad.gif)
+
 ## Technologies Used
 
 <strong>User Interface</strong>
